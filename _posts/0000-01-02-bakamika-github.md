@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-Your text
+Mrdej tučňáka do ucha, buzno!
 Use the left arrow to go back!
